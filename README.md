@@ -1,7 +1,7 @@
 # Python Workshop
 
 <p align="center" margin-top="30">
-  <img width="100" src="python-logo.png" alt="Logo">
+  <img width="320" src="python-logo.png" alt="Logo">
 </p>
 
 Animate a group workshop of 2 to 3 hours about [Python](https://www.python.org/).
