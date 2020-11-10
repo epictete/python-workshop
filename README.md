@@ -1,6 +1,6 @@
 # Python Workshop
 
-<p align="center" margin-top="30">
+<p align="center" margin-top="50">
   <img width="320" src="python-logo.png" alt="Logo">
 </p>
 
